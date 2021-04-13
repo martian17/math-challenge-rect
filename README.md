@@ -1,1 +1,2 @@
-This is a default readme that is created by the htmlinit command
+Math challenge!! Bruh
+Thank you Colen for the idea
